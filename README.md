@@ -7,5 +7,5 @@ it start with "ctrl+shift+space", if you want change the hotkey its simple
 change the "keyboard.add_hotkey('key+key+key', comecar)", and "print("press KEY+KEY+KEY for enable/disable the auto clicker")"
 
 # Example:
-keyboard.add_hotkey('ctrl+shift+capslock', comecar)
+keyboard.add_hotkey('ctrl+shift+capslock', comecar)<br>
 print("press CTRL+SHIFT+CAPSLOCK for enable/disable the auto clicker")

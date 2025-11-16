@@ -11,4 +11,9 @@ keyboard.add_hotkey('ctrl+shift+capslock', comecar)<br>
 print("press CTRL+SHIFT+CAPSLOCK for enable/disable the auto clicker")
 
 # Observation:
-some words are in portugueze(brazil), because its my language 
+some words are in portugueze(brazil), because its my language<br>
+and you need to install the librarys:<br>
+pip install customtkinter<br>
+pip install keyboard<br>
+winsound is already install in windows
+
